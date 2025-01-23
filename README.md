@@ -20,4 +20,4 @@ node canvas installing issues windows 10/11
 
 7. Download Both libjpeg-turbo and install to its default location (C:\libjpeg-turbo if 32bit or C:\libjpeg-turbo64 if 64bit)<br />
 [libjpeg-turbo-3.0.1-vc.exe](https://sourceforge.net/projects/libjpeg-turbo/files/3.0.1/libjpeg-turbo-3.0.1-vc.exe/download)<br />
-[libjpeg-turbo-3.0.1-vc64.ex](https://sourceforge.net/projects/libjpeg-turbo/files/3.0.1/libjpeg-turbo-3.0.1-vc64.exe/download)
+[libjpeg-turbo-3.0.1-vc64.exe](https://sourceforge.net/projects/libjpeg-turbo/files/3.0.1/libjpeg-turbo-3.0.1-vc64.exe/download)
